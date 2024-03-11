@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brownjf2027
-- 👀 I’m interested in learning more about web development with python code. I only code in my spare time, so I'm always learning.
+- 👋 Hi, I’m Jasen!
+- 👀 I’m interested in learning more about web development with python code, flask, bootstrap, etc. I only code in my spare time, so I'm always learning.
 - 🌱 I’m currently learning python, working with APIs, and whatever ever else catches my attention when I have time. 
 
 <!---
