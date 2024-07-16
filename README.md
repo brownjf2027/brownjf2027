@@ -7,6 +7,8 @@
 
 This was a fun project that replaces some APIs I was doing in Excel with VBA to make my fantasy drafts in Sleeper.com more efficient and easy. I always prefer using player tiers and keeping track of them throughout the draft as I make my decisions. Sleeper as a free API to use @ https://docs.sleeper.com 
 
+You can see the API calls used for the site within the data.py file I've uploaded here as well. 
+
 It was a way for me to practice the following:
 - Flask for Web Development in Python along with HTML
 - Boostrap and additional CSS for custom styling
