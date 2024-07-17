@@ -2,7 +2,8 @@
 - I’m interested in learning more about web development with python code, flask, bootstrap, etc. I only code in my spare time, so I'm always learning.
 - I’m currently learning python, working with APIs, and whatever ever else catches my attention when I have time. 
 
-**Sleeper Fantasy Football Draft Tracker**
+**Sleeper Fantasy Football Draft Tracker** 
+- Repo: https://github.com/brownjf2027/SleeperTierSite
 - Site is now live at: https://sleepertiers.com/
 
 This was a fun project that replaces some APIs I was doing in Excel with VBA to make my fantasy drafts in Sleeper.com more efficient and easy. I always prefer using player tiers and keeping track of them throughout the draft as I make my decisions. Sleeper as a free API to use @ https://docs.sleeper.com 
